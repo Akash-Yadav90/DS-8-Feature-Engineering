@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dataset
+data/*.csv
+data/*.xlsx
+
+# Generated models
+models/*.joblib
+models/*.pkl
+
+# Editor settings
+.vscode/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
